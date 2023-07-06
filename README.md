@@ -1,5 +1,5 @@
-<div style="display: flex; justify-content: center;">
-    <img src="loading.gif" style="width: 100px; height: auto; padding: 100px">
+<div align="center">
+  <img src="loading.gif" alt="loading" width="100" height="100">
 </div>
 
 <h1 align="center">Sup nerds welcome to MY EPIC PROFILE</h1>
